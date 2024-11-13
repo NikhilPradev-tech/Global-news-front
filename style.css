@@ -1,0 +1,217 @@
+.navbar{
+    background-color: rgb(185, 216, 185);
+    
+}
+
+.nav-text{
+    font-size: larger;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+    margin-left: 2.5%;
+}
+
+.navbar-nav{
+    margin-left: 4%;
+    font-style: italic;
+}
+
+.jumbotron{
+    background-color: rgb(131, 168, 168);
+}
+
+.title{
+    margin-left: 2.5%;
+    padding-top: 2%;
+}
+
+#nik{
+    font-size: 150%;
+}
+
+#nok{
+    margin-left: 3%;
+    margin-bottom: 2%;
+}
+
+#ni{
+    margin-top: 2%;
+}
+
+#GT{
+    
+    background-image: url(https://media.istockphoto.com/id/1136699504/vector/dotted-world-map.jpg?s=612x612&w=0&k=20&c=qWsXxT66IAuk9UMYS2uu6pT8lPSAL3hzsVaj1clxO4Q=);
+}
+
+#JI{
+    margin-top: 2%;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+#C1{
+    background-color: rgb(243, 238, 232);
+}
+
+#can{
+    margin-top: 2%;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+#disc{
+    margin-top: 2%;
+}
+
+.tit{
+    font-size: larger;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#FG{
+    margin-top: 1.5%;
+}
+
+#KL{
+    margin-left: 45%;
+    margin-top: 3%;
+}
+
+.Follow{
+    margin-top: 2%;
+    font-size: larger;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: rgb(88, 88, 64);
+}
+
+
+
+#insta{
+    margin-top: 8%;
+}
+
+#X{
+    margin-top: 12%;
+}
+
+#in{
+    margin-top: 14%;
+}
+
+#im1{
+    margin-top: 10%;
+}
+
+.vt1{
+    margin-top: 3.5%;
+    font-weight: bolder;
+}
+
+#vb1{
+    margin-top: 1%;
+}
+
+#im2{
+    width: 20%;
+    height: 20%;
+    padding-bottom: 10%;
+
+}
+
+.App{
+    margin-top: 20%;
+    font-size: larger;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: rgb(88, 88, 64);
+}
+
+#android{
+    margin-top: 5%;
+}
+
+#ios{
+    margin-top: 8%;
+}
+
+#jumnav{
+    display: flex;
+    max-width: fit-content;
+    position: center;
+}
+
+.simple{
+    
+    margin-left: 7%;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+.Copy{
+    margin-left: 42%;
+    font-weight:bold ;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.flex-row{
+    margin-top: 2%;
+    
+}
+
+a:link{
+    text-decoration: none;
+}
+
+#a{
+    color: rgb(105, 26, 37);
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#Principle{
+    margin-top: 1%;
+}
+
+#year{
+    margin-top: 1%;
+}
+
+#Rate{
+    margin-top: 1%;
+}
+
+#yeargrp{
+    margin-top: 1%;
+}
+
+#Rategrp{
+ margin-top: 1%;
+}
+
+#bt{
+    margin-top: 1.5%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
