@@ -197,6 +197,55 @@ a:link{
     margin-top: 1.5%;
 }
 
+#tab{
+    border: 1px solid;
+    width: 100%;
+    margin-top: 20%;
+    background-color: aqua;
+}
+#tab1{
+    
+    width: 100%;
+    margin-top: 20%;
+}
+
+.pop{
+    font-weight: bolder;
+    font-style: italic;
+}
+
+.off{
+    text-align: center;
+    font-size: large;
+    font-weight: bolder;
+    font-style: italic;
+}
+
+#office{
+    background-color: aquamarine;
+    text-align: center;
+    font-weight: bold;
+}
+
+#abt{
+    font-size: 50px;
+    font-weight: bold;
+    font-style: italic;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    background-color: rgb(15, 37, 163);
+    color: antiquewhite;
+}
+
+.tit1{
+    font-weight: bolder;
+    font-size: 40px;
+}
+.maintit{
+    font-weight: bolder;
+    font-size: 40px;
+}
+
 
 
 
